@@ -71,10 +71,9 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
-### Main exercises
 🛠 Access the exercises [here](https://github.tools.sap/D040081/rap_workshops/blob/master/rap1xx/rap110/README.md#-exercises).
 
-## Presentation & Replay
+## Presentation
 
 Access the ...
 - Session presentation: [AD260@SAP_TechEd_2023.pdf (coming soon)](/exercises/images/AD260@SAP_TechEd_2023.pdf)
