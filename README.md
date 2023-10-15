@@ -31,14 +31,14 @@ The resulting _Travel_ app is a SAP Fiori elements-based List Report app with se
 that will look like this:
 
 **List Report**:
-<img src="exercises/images/ad181v_travelapp01.png" alt="RAP110 Travel App - List Report" width="100%">
+<img src="exercises/images/ad260_travelapp01.png" alt="RAP110 Travel App - List Report" width="100%">
   
 **Object Page**: 
-<img src="exercises/images/ad181v_travelapp02.png" alt="RAP110 Travel App - Object Page" width="100%">
+<img src="exercises/images/ad260_travelapp02.png" alt="RAP110 Travel App - Object Page" width="100%">
 
 Below is the simplified _Flight_ data model underlying the app.
 
-<img src="exercises/images/ad181v_datamodel.png" alt="RAP110 Data Model" width="80%">
+<img src="exercises/images/ad260_datamodel.png" alt="RAP110 Data Model" width="80%">
 
 </details>
 
