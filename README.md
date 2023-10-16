@@ -71,7 +71,7 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
-1. ⏬ Download the 🔑 service key from [here](https://sap-my.sharepoint.com/:t:/p/shubham_waghmare/EbYWKjgIaFxCs-exT3fh1tMBOm6FvIm39xrC8b0KzCQDOQ?e=NMu7hc) with connection details for the hands-on ABAP cloud system.
+1. ⏬ Download the 🔑 service key from [here](https://sap-my.sharepoint.com/:t:/p/shubham_waghmare/EbYWKjgIaFxCs-exT3fh1tMBOm6FvIm39xrC8b0KzCQDOQ?e=NMu7hc) that will be used in for connecting to hands-on ABAP cloud system.
 2. 🛠 Access the exercises [here](https://github.tools.sap/D040081/rap_workshops/blob/master/rap1xx/rap110/README.md#-exercises).
 
 ## Presentation
