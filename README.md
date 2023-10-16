@@ -76,7 +76,7 @@ The requirements to follow the exercises in this repository are:
 ## Presentation
 
 Access the ...
-- Session presentation: [AD260@SAP_TechEd_2023.pdf (coming soon)](/exercises/images/AD260@SAP_TechEd_2023.pdf)
+- Session presentation: [AD260@SAP_TechEd_2023.pdf](/exercises/images/AD260@SAP_TechEd_2023.pdf)
 <!--
 - Session replay (_login required_???)
 -->
