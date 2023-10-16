@@ -6,6 +6,8 @@
 
 This repository contains the material for the SAP TechEd 2023 Hands-On Workshop called [AD260 - Building SAP Fiori apps with ABAP Cloud on SAP BTP ABAP environment](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=116864&schid=520415&locale=en_US).  
 
+> 📺 Live session: 📅 Thursday, Nov 2 | 🕐 11:15 AM – 1:00 PM IST
+
 The ABAP RESTful application programming model (RAP) is at the heart of the ABAP Cloud development model for building transactional, cloud-ready apps and services on SAP BTP, ABAP environment and SAP S/4HANA, in the cloud and on premises. Learn how to use RAP features, such as late numbering, side effects, and business events, to build your own SAP Fiori apps. This session focuses on the development capabilities available in the ABAP development tools. 
 
 ## Overview
@@ -65,8 +67,8 @@ The illustration below shows the high-level end-to-end development stack when wo
 ## Requirements
 
 The requirements to follow the exercises in this repository are:
-1. [Create an user on the SAP BTP ABAP Environment Trial](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
-2. [Install the latest Eclipse platform and the latest ABAP Development Tools (ADT) plugin](https://developers.sap.com/tutorials/abap-install-adt.html)
+1. [Install the latest Eclipse platform and the latest ABAP Development Tools (ADT) plugin](https://developers.sap.com/tutorials/abap-install-adt.html) 
+2. [Create an user on the SAP BTP ABAP Environment Trial](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
 
 
 ## Exercises
@@ -76,13 +78,10 @@ The requirements to follow the exercises in this repository are:
 
 ## Presentation
 
-Access the ...
-- Session presentation: [AD260@SAP_TechEd_2023.pdf](/exercises/images/AD260@SAP_TechEd_2023.pdf)
-<!--
-- Session replay (_login required_???)
--->
+Access the Session presentation: [AD260@SAP_TechEd_2023.pdf](/exercises/images/AD260@SAP_TechEd_2023.pdf)
 
 ## Related ressources
+ - 📍 [Overview of the ABAP Cloud Sessions at SAP TechEd 2023](https://blogs.sap.com/2023/10/02/abap-cloud-at-sap-teched-in-2023/)
  - 📃 [State-of-the-Art ABAP Development with the ABAP RESTful Application Programming Model (RAP) | SAP Community](https://community.sap.com/topics/abap/rap)
  - 📄 [ABAP Cloud – SAP S/4HANA extensibility – May 2023 update | SAP Blogs](https://blogs.sap.com/2023/05/26/abap-cloud-sap-s-4hana-extensibility-may-2023-update/)
  - 🛠 [Develop and Run a Fiori Application with SAP Business Application Studio | SAP Tutorials](https://developers.sap.com/tutorials/abap-environment-deploy-cf-production.html)
@@ -95,7 +94,7 @@ Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples
 
 ## How to obtain support
 
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+Support for the content in this repository is available during the actual time of the on-site session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
 Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
