@@ -71,7 +71,8 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
-🛠 Access the exercises [here](https://github.tools.sap/D040081/rap_workshops/blob/master/rap1xx/rap110/README.md#-exercises).
+1. ⏬ Download the 🔑 service key from [here](https://sap-my.sharepoint.com/:t:/p/shubham_waghmare/EbYWKjgIaFxCs-exT3fh1tMBOm6FvIm39xrC8b0KzCQDOQ?e=NMu7hc).
+2. 🛠 Access the exercises [here](https://github.tools.sap/D040081/rap_workshops/blob/master/rap1xx/rap110/README.md#-exercises).
 
 ## Presentation
 
