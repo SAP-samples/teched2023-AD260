@@ -67,7 +67,7 @@ The illustration below shows the high-level end-to-end development stack when wo
 ## Requirements
 
 The requirements to follow the exercises in this repository are:
-1. Go to Windows->All Apps->SAP Development Tools->ABAP in Eclipse AD260 and launch the Eclipse installation.
+1. On your Windows Desktop there is a "eclipse" shortcut.Double-click to launch the Eclipse installation.
 2. Your custom user is AD260-###@education.cloud.sap where ### should be replaced by your seat number.
 
 
