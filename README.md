@@ -7,6 +7,7 @@
 This repository contains the material for the SAP TechEd 2023 Hands-On Workshop called [AD260 - Building SAP Fiori apps with ABAP Cloud on SAP BTP ABAP environment](https://go2.events.sap.com/TechEd2023/agb/go/agendabuilder.sessions/?l=326&sid=116864&schid=520415&locale=en_US).  
 
 > 📺 Live session: 📅 Thursday, Nov 2 | 🕐 11:15 AM – 1:00 PM IST
+> 📺 Live session: 📅 Friday, Nov 3 | 🕐 10:15 AM – 12:00 PM IST
 
 The ABAP RESTful application programming model (RAP) is at the heart of the ABAP Cloud development model for building transactional, cloud-ready apps and services on SAP BTP, ABAP environment and SAP S/4HANA, in the cloud and on premises. Learn how to use RAP features, such as late numbering, side effects, and business events, to build your own SAP Fiori apps. This session focuses on the development capabilities available in the ABAP development tools. 
 
