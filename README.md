@@ -75,8 +75,8 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
-1. ⏬ Download the 🔑 [service key](https://sap-my.sharepoint.com/:t:/p/shubham_waghmare/EbYWKjgIaFxCs-exT3fh1tMBOm6FvIm39xrC8b0KzCQDOQ?e=NMu7hc) locally that will be used in [Exercise 0: Getting Started](https://github.tools.sap/D040081/rap_workshops/blob/master/rap1xx/rap110/exercises/ex00/README.md#exercise-0-getting-started) to logon to the dedicated SAP BTP, ABAP environment system for the hands-on exercises.
-2. 🛠 Access the exercises [here](https://github.tools.sap/D040081/rap_workshops/blob/master/rap1xx/rap110/README.md#-exercises).
+1. ⏬ Download the 🔑 [service key](https://sap-my.sharepoint.com/:t:/p/shubham_waghmare/EbYWKjgIaFxCs-exT3fh1tMBOm6FvIm39xrC8b0KzCQDOQ?e=NMu7hc) locally that will be used in [Exercise 0: Getting Started](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/rap1xx/rap110/exercises/ex00/README.md) to logon to the dedicated SAP BTP, ABAP environment system for the hands-on exercises.
+2. 🛠 Access the exercises [here](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/rap1xx/rap110/README.md#-exercises).
 
 ## Presentation
 
