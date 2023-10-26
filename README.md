@@ -70,13 +70,14 @@ The illustration below shows the high-level end-to-end development stack when wo
 
 The requirements to follow the exercises in this repository are:
 1. On your Windows Desktop you will find an "eclipse" shortcut. Double-click to launch the Eclipse installation.
-2. Your custom user is AD260-###@education.cloud.sap where ### should be replaced by your seat number.
+2. ⏬ Download the 🔑 [service key](https://sap-my.sharepoint.com/:t:/p/shubham_waghmare/EbYWKjgIaFxCs-exT3fh1tMBOm6FvIm39xrC8b0KzCQDOQ?e=NMu7hc) locally that will be used in [Exercise 0: Getting Started](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/rap1xx/rap110/exercises/ex00/README.md) to logon to the dedicated SAP BTP, ABAP environment system for the hands-on exercises.
+3. Your custom user is AD260-###@education.cloud.sap where ### should be replaced by your seat number. Password will be shared during the session.
+4. On the logon page, sign in with '**tdct3ched1.accounts.ondemand.com**' using your credentials.
 
 
 ## Exercises
 
-1. ⏬ Download the 🔑 [service key](https://sap-my.sharepoint.com/:t:/p/shubham_waghmare/EbYWKjgIaFxCs-exT3fh1tMBOm6FvIm39xrC8b0KzCQDOQ?e=NMu7hc) locally that will be used in [Exercise 0: Getting Started](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/rap1xx/rap110/exercises/ex00/README.md) to logon to the dedicated SAP BTP, ABAP environment system for the hands-on exercises.
-2. 🛠 Access the exercises [here](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/rap1xx/rap110/README.md#-exercises).
+🛠 Access the exercises [here](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/rap1xx/rap110/README.md#-exercises).
 
 ## Presentation
 
