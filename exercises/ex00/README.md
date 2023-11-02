@@ -85,15 +85,19 @@ Please inform the SAP staff during the event if you have not yet received the em
 
 2. If not done already, now create the **ABAP Cloud Project** as shown in the screenshots below. 
   
-   For **step 4** in the screenshot below, you will either import or copy and paste the 🔑 **service key** of the SAP BTP ABAP environment system on which you'll be performing the exercises. Then click **_Next_** to continue.
+   For **step 5** in the screenshot below, you will either import or copy and paste the 🔑 **service key** of the SAP BTP ABAP environment system on which you'll be performing the exercises. Then click **_Next_** to continue.
 
-    ![Create ABAP Project Cloud 1/2](../images/steampunk_systemlogon1.png)
-  
-   For **step 7** in the screenshot below, use the email and password of your ABAP user to log in to the system.
+    ![Create ABAP Project Cloud 1/2](../images/create_abap_cloud_project_1.png)
+
+    ![Add service key](../images/add_service_key.png)
+
+   For **step 10/11** in the screenshot below, use the email and password of your ABAP user to log in to the system.
   
    You can keep the default **_Project name_** and click **_Finish_** to create the new ABAP Cloud Project in the **_Project Explorer_** view. 
 
-    ![Create ABAP Project Cloud 2/2](../images/steampunk_systemlogon2.png)
+    ![Logon](../images/logon.png)
+
+    ![Logon](../images/logonFinish.png)
 
 </details>
 
