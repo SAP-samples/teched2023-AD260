@@ -95,9 +95,9 @@ Please inform the SAP staff during the event if you have not yet received the em
   
    You can keep the default **_Project name_** and click **_Finish_** to create the new ABAP Cloud Project in the **_Project Explorer_** view. 
 
-    ![Logon](../images/logon.png)
+    ![Logon](../images/Logon.png)
 
-    ![Logon](../images/logonFinish.png)
+    ![Logon](../images/LogonFinish.png)
 
 </details>
 
