@@ -71,10 +71,9 @@ The illustration below shows the high-level end-to-end development stack when wo
 The requirements to follow the exercises in this repository are:
 1. On your Windows Desktop you will find an "eclipse" shortcut. Double-click to launch the Eclipse installation.
 2. Open ABAP perspective if not already opened. Check [here](https://github.com/SAP-samples/teched2023-AD260/blob/main/exercises/images/abap%20perspective.png) for steps.
-3. ⏬ Download the 🔑 [service key](https://sap-my.sharepoint.com/:t:/p/shubham_waghmare/EbYWKjgIaFxCs-exT3fh1tMBOm6FvIm39xrC8b0KzCQDOQ?e=NMu7hc) locally that will be used in [Exercise 0: Getting Started](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/rap1xx/rap110/exercises/ex00/README.md) to logon to the dedicated SAP BTP, ABAP environment system for the hands-on exercises.
-4. Your custom user is AD260-###@education.cloud.sap where ### should be replaced by your seat number. Password will be shared during the session.
-5. On the logon page, sign in with '**tdct3ched1.accounts.ondemand.com**' using your credentials.
-
+3. ⏬ Download the 🔑 [service key](https://sap-my.sharepoint.com/:t:/p/shubham_waghmare/EbYWKjgIaFxCs-exT3fh1tMBOm6FvIm39xrC8b0KzCQDOQ?e=NMu7hc) locally that will be used in [Exercise 0: Getting Started](https://github.com/SAP-samples/teched2023-AD260/tree/main/exercises/ex00#create-an-abap-cloud-project-in-adt) to logon to the dedicated SAP BTP, ABAP environment system for the hands-on exercises.
+4. Logon to the system by following the [Exercise 0: Getting Started](https://github.com/SAP-samples/teched2023-AD260/tree/main/exercises/ex00#create-an-abap-cloud-project-in-adt)
+5. Your custom user is AD260-###@education.cloud.sap where ### should be replaced by your seat number. Password will be shared during the session.
 
 ## Exercises
 
